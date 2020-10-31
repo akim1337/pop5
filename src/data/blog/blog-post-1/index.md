@@ -2,15 +2,16 @@
 category: 'blog'
 cover: './cover.jpg'
 title: 'Blog Post 1'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Давай будем честны между собой - кому это надо? надо надо я смогу хихихихи ихихихих'
 date: '2019-11-13'
 tags: ['Photography']
 published: true
 ---
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._.
+_Весь вопрос в том, что правда ли все это редактируется именно здесь? и никакой ЦМС? Да как то так блять?! do consequat._.
 
-**Sed ut perspiciatis unde omnis**
+**Тут жирный типо**
+#Знаю что это должен быть H1#
 
 ![Aliquet vel mollis nec](./cover.jpg)
 
